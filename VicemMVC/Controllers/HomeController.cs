@@ -38,3 +38,5 @@ public class HomeController : Controller
 // sinh mã các chức năng sau login,..
 // dotnet aspnet-codegenerator identity -dc VicemMVC.Data.ApplicationDbContext -f
 
+// commit nop bai nguyhuuphuc_cau1
+
